@@ -2,22 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning for Business
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Marketing Mix Modeling](https://github.com/data-crat/Machine-Learning/tree/master/Market-Mix-Modelling)
+<img src="images/market_mix.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Big Mart Sales](https://github.com/data-crat/Machine-Learning/tree/master/Big%20Mart%20Sales)
+<img src="images/Big_Mart.jpg?raw=true"/>
+
+---
+[Customer Segmentation](https://github.com/data-crat/Machine-Learning/tree/master/CLUSTERING)
+<img src="images/unsupervised.gif?raw=true"/>
 
 ---
 
-### Category Name 2
+### Hackathons
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
