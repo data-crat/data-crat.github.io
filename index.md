@@ -16,7 +16,7 @@
 ---
 [Customer Segmentation](https://github.com/data-crat/Machine-Learning/tree/master/CLUSTERING)
 
-<img src="images/Clustering.html?raw=true"/>
+<img src="images/unsupervised.gif?raw=true"/>
 
 ---
 
