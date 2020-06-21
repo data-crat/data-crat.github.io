@@ -1,4 +1,9 @@
-## Portfolio
+# Portfolio
+---
+### Acquired Skills
+
+
+<img src="images/skills-1.jpg?raw=true"/>
 
 ---
 
@@ -28,14 +33,4 @@
 
 - [Detailed List Of Hackathons](https://github.com/data-crat/Hackathons/blob/master/README.md)
 
-
----
-## Skills
-
-
-<img src="images/skills-2.png?raw=true"/>
-
-
-
----
 
