@@ -31,6 +31,9 @@
 
 ---
 
+<img src="images/skills-1.png?raw=true"/>
+
+<img src="images/skills-2.png?raw=true"/>
 
 
 
