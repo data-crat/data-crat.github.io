@@ -33,4 +33,6 @@
 
 - [Detailed List Of Hackathons](https://github.com/data-crat/Hackathons/blob/master/README.md)
 
+### Specialization/Certification
 
+- [Applied Data Science with Python, University of Michigan](https://www.coursera.org/account/accomplishments/specialization/XQMGY9WELE8V)
