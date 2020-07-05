@@ -3,7 +3,7 @@
 ### Acquired Skills
 
 
-<img src="images/skills-1.jpg?raw=true"/>
+<img src="images/skills-1.png?raw=true"/>
 
 ---
 
