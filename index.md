@@ -35,4 +35,6 @@
 
 ### Specialization/Certification
 
-- [Applied Data Science with Python, University of Michigan](https://www.coursera.org/account/accomplishments/specialization/XQMGY9WELE8V)
+- [Applied Data Science with Python | University of Michigan](https://www.coursera.org/account/accomplishments/specialization/XQMGY9WELE8V)
+- [SQL for Data Science | University of California,Davis](https://www.coursera.org/account/accomplishments/certificate/NQ63R8T4EX8K)
+
