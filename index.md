@@ -7,7 +7,7 @@
 
 ---
 
-### Machine Learning for Business
+### Machine Learning for Industries
 
 [Marketing Mix Modeling](https://github.com/data-crat/Machine-Learning/tree/master/Market-Mix-Modelling)
 
@@ -23,6 +23,11 @@
 
 <img src="images/unsupervised.gif?raw=true"/>
 
+---
+
+[Human Activity Recognition](https://github.com/data-crat/Machine-Learning/tree/master/HUMAN_ACTIVITY_RECOG)
+
+<img src="images/Activity.png?raw=true"/>
 ---
 
 ### Hackathons
